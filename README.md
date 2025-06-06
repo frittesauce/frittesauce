@@ -11,7 +11,7 @@
   
 - Studeer software development
   
-- Skills: **rust**, **javascript/typescript** en **python**
+- Skills: **rust**, **javascript/typescript**
 
 <br />
 <br />
