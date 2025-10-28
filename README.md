@@ -13,7 +13,6 @@
   
 - Skills: **rust**, **javascript/typescript**
 
-- sigma sigma boy
 <br />
 <br />
 <br />
