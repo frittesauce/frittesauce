@@ -19,5 +19,5 @@
 </div>
 
 ## github stats stuff
-![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=frittesauce)](https://github.com/anuraghazra/github-readme-stats)
+![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=frittesauce)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frittesauce&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
